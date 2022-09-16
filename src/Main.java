@@ -7,5 +7,7 @@ public class Main {
         Animal horse2 = new Animal(3);
         Animal horse3 = new Animal(3, "Åke", "Häst");
         Animal horse4 = new Animal("Häst");
+
+        System.out.println("Ångrade mig");
     }
 }
